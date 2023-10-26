@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>class practice</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper"> 
+        <div class="aside">
+            <div class="pic">
+              
+                    <img src="images.jpeg" alt="">
+            </div>
+            <div class="para">
+                <h3>SEJAL BAJAJ</h3>
+                <h4>sejalbajaj47@gmail.com</h4>
+                <button>follow us</button>
+            </div>
+        </div>
+        <div class="main">
+            <div class="header">
+                <button class="btn"><a href="#"></a> overview</button>
+                <button class="btn"><a href="#"></a> Repository</button>
+                <button class="btn"><a href="#"></a>projects</button>
+                <button class="btn"><a href="#"></a>packages</button>
+                <button class="btn"><a href="#"></a>stars</button>
+            </div>
+            
+            <div class="des">
+                <h3>Hey! There is Sejal Bajaj</h3>
+                <hr/>
+                <p style="text-align: center;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam recusandae sapiente ipsa, inventore quasi odit impedit voluptatum tempore itaque, odio ea non voluptate. Pariatur incidunt quibusdam et officia nesciunt doloremque!
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero vel aliquam eos unde, officiis deserunt pariatur numquam accusantium ab dolor velit modi possimus culpa vitae. Magnam ea aperiam rerum facilis.
+                </p>
+            </div>
+        </div>
+        
+    </div>
+</body>
+</html>
